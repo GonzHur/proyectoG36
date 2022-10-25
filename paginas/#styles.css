@@ -1,0 +1,27 @@
+/*SINTASIS DE CSS*/
+
+h1{
+
+    color:#0000ff; /*#RRGGBB*/
+
+    font-size: 12px;
+
+}
+
+#parrafo_01{
+
+    color:#ff0000;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 12px;
+
+    text-align: center;
+
+}
+
+#parrafo_02{
+
+    color:#00ffc3;
+
+}
